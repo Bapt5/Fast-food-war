@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9d37d4ff23f797241a75fc177d6bbf1a
+timeCreated: 1545058964
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fingerfood DEMO
+  fontNames:
+  - Fingerfood DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fdb3c2befb13e064db07ea7ac6768a49
+timeCreated: 1539093227
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sketch 3D
+  fontNames:
+  - Sketch 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 9b91cd665c2ff9a4ba2e4ce34c071cfc
+timeCreated: 1545403123
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - textBestScore: {instanceID: 0}
+  - textHealth: {instanceID: 0}
+  - Speed: {instanceID: 0}
+  - Explosion: {instanceID: 0}
+  - Prank: {instanceID: 0}
+  - SpeedImage: {instanceID: 0}
+  - ExplosionImage: {instanceID: 0}
+  - PrankImage: {instanceID: 0}
+  - SpeedFalse: {fileID: 21300000, guid: c88477066d7179c4d80cfd323f6095de, type: 3}
+  - ExplosionFalse: {fileID: 21300000, guid: e52bcd05bb8c2b04187fde081e137f61, type: 3}
+  - PrankFalse: {fileID: 21300000, guid: 88ba97e84c378a542900877587066af8, type: 3}
+  - SpeedTrue: {fileID: 21300000, guid: 95e419f33cc48f14486936ca310a2f7a, type: 3}
+  - ExplosionTrue: {fileID: 21300000, guid: e603471d22d6f1043a1107b466c3db42, type: 3}
+  - PrankTrue: {fileID: 21300000, guid: 4aa137b0ca86c744bb86965cba7a99f3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
